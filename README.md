@@ -1,4 +1,4 @@
-Pagina Web
+Pagina Web 
 
 Encabezado y Estilos 
 (<head> y <style>):Define la configuración de la página y su diseño visual con CSS 
