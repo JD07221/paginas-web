@@ -4,7 +4,7 @@ Encabezado y Estilos
 (<head> y <style>):Define la configuración de la página y su diseño visual con CSS 
 (colores de fondo, tipografías, tarjetas y arreglos adaptables para móviles).
 
-Encabezado principal 
+Encabezado principal
 (<h1>):Muestra el nombre Albert Camus como título de la página.
 
 Foto principal y Biografía 
